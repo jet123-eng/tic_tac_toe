@@ -1,0 +1,1 @@
+- I developed a Tic Tac Toe game using Python and Tkinter. This project features a graphical interface that allows two players to compete in the classic game, with the program checking for wins, losses, and draws. The user-friendly interface ensures an engaging and interactive gaming experience
